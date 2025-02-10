@@ -4,7 +4,8 @@ GitHub Repo Scanner is a tool designed to scan GitHub repositories for credentia
 
 ## Features
 
-![Uploading Screenshot 2025-02-10 at 12.39.43 PM.png…]()
+<img width="786" alt="Screenshot 2025-02-10 at 12 39 43 PM" src="https://github.com/user-attachments/assets/df2568c7-aec2-405a-9b41-3bbaf3289b64" />
+
 
 
 
