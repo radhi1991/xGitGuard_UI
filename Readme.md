@@ -118,7 +118,4 @@ Distributed under the MIT License. See \`LICENSE\` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/your-username/github-repo-scanner](https://github.com/your-username/github-repo-scanner)
-
+Adhithya Rajasekaran
